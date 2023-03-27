@@ -1,3 +1,63 @@
+# Asia
+
+- [ ] AF Afghanistan
+- [ ] AM Armenia
+- [ ] AZ Azerbaijan
+- [ ] BD Bangladesh
+- [ ] BT Bhutan
+- [ ] BN Brunei Darussalam
+- [x] CN China
+- [ ] GE Georgia
+- [ ] IN India
+- [x] ID Indonesia
+- [ ] IR Iran
+- [ ] IQ Iraq
+- [ ] IL Israel
+- [x] JP Japan
+- [ ] JO Jordan
+- [ ] KZ Kazakhstan
+- [ ] KW Kuwait
+- [ ] KG Kyrgyzstan
+- [ ] LA Lao People's Democratic Republic
+- [ ] LB Lebanon
+- [x] MY Malaysia
+- [ ] MN Mongolia
+- [ ] MM Myanmar
+- [ ] NP Nepal
+- [ ] KP North Korea
+- [ ] OM Oman
+- [ ] PK Pakistan
+- [ ] PS Palestinian Territories
+- [ ] PH Philippines
+- [ ] QA Qatar
+- [ ] RU Russia
+- [ ] SA Saudi Arabia
+- [x] SG Singapore
+- [x] KR South Korea
+- [ ] LK Sri Lanka
+- [ ] SY Syria
+- [x] TW Taiwan
+- [ ] TJ Tajikistan
+- [x] TH Thailand
+- [ ] TL Timor-Leste
+- [ ] TR Turkey
+- [ ] TM Turkmenistan
+- [ ] AE United Arab Emirates
+- [ ] UZ Uzbekistan
+- [ ] VN Vietnam
+- [ ] YE Yemen
+
+# Oceania
+
+- [ ] AU Australia
+- [ ] FJ Fiji
+- [ ] TF French Southern and Antarctic Lands
+- [ ] NC New Caledonia
+- [ ] NZ New Zealand
+- [ ] PG Papua New Guinea
+- [ ] SB Solomon Islands
+- [ ] VU Vanuatu
+
 # Europe
 
 - [ ] AL Albania
@@ -38,54 +98,6 @@
 - [ ] CH Switzerland
 - [ ] UA Ukraine
 - [ ] GB United Kingdom
-
-# Asia
-
-- [ ] AF Afghanistan
-- [ ] AM Armenia
-- [ ] AZ Azerbaijan
-- [ ] BD Bangladesh
-- [ ] BT Bhutan
-- [ ] BN Brunei Darussalam
-- [x] CN China
-- [ ] GE Georgia
-- [ ] IN India
-- [x] ID Indonesia
-- [ ] IR Iran
-- [ ] IQ Iraq
-- [ ] IL Israel
-- [x] JP Japan
-- [ ] JO Jordan
-- [ ] KZ Kazakhstan
-- [ ] KW Kuwait
-- [ ] KG Kyrgyzstan
-- [ ] LA Lao People's Democratic Republic
-- [ ] LB Lebanon
-- [x] MY Malaysia
-- [ ] MN Mongolia
-- [ ] MM Myanmar
-- [ ] NP Nepal
-- [ ] KP North Korea
-- [ ] OM Oman
-- [ ] PK Pakistan
-- [ ] PS Palestinian Territories
-- [ ] PH Philippines
-- [ ] QA Qatar
-- [ ] RU Russia
-- [ ] SA Saudi Arabia
-- [x] KR South Korea
-- [ ] LK Sri Lanka
-- [ ] SY Syria
-- [x] TW Taiwan
-- [ ] TJ Tajikistan
-- [x] TH Thailand
-- [ ] TL Timor-Leste
-- [ ] TR Turkey
-- [ ] TM Turkmenistan
-- [ ] AE United Arab Emirates
-- [ ] UZ Uzbekistan
-- [ ] VN Vietnam
-- [ ] YE Yemen
 
 # North America
 
@@ -128,17 +140,6 @@
 - [ ] SR Suriname
 - [ ] UY Uruguay
 - [ ] VE Venezuela
-
-# Oceania
-
-- [ ] AU Australia
-- [ ] FJ Fiji
-- [ ] TF French Southern and Antarctic Lands
-- [ ] NC New Caledonia
-- [ ] NZ New Zealand
-- [ ] PG Papua New Guinea
-- [ ] SB Solomon Islands
-- [ ] VU Vanuatu
 
 # Africa
 
@@ -194,4 +195,3 @@
 - [ ] EH Western Sahara
 - [ ] ZM Zambia
 - [ ] ZW Zimbabwe
-
