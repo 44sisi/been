@@ -28,7 +28,7 @@
 - [ ] OM Oman
 - [ ] PK Pakistan
 - [ ] PS Palestinian Territories
-- [ ] PH Philippines
+- [x] PH Philippines
 - [ ] QA Qatar
 - [ ] RU Russia
 - [ ] SA Saudi Arabia
